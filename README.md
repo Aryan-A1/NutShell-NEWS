@@ -1,4 +1,4 @@
-📰 NutShell NEWS
+### 📰 NutShell NEWS
 Get the latest news in bite-sized, easy-to-digest formats! ⚡
 
 🌟 Why NutShell?
